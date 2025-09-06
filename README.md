@@ -8,4 +8,6 @@ The topics are :
 5.diffusers
 6.Transformers 
 
+The notebooks usually starts with a number ( 00 , 01 ... ) and the topic learned .
+
 and few other prerequisits !
